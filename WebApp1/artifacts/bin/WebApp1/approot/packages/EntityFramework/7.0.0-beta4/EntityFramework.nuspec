@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/10/nuspec.xsd">
+  <metadata>
+    <id>EntityFramework</id>
+    <version>7.0.0-beta4</version>
+    <title>EntityFramework</title>
+    <authors>Microsoft</authors>
+    <owners>Microsoft</owners>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>Entity Framework is Microsoft's recommended data access technology for new applications.</description>
+    <dependencies>
+      <dependency id="EntityFramework.Commands" version="7.0.0-beta4" />
+    </dependencies>
+    <licenseUrl>http://www.microsoft.com/web/webpi/eula/net_library_eula_enu.htm</licenseUrl>
+    <iconUrl>http://go.microsoft.com/fwlink/?LinkID=288859</iconUrl>
+    <copyright>Copyright © Microsoft Corporation</copyright>
+    <projectUrl>http://www.asp.net/</projectUrl>
+  </metadata>
+</package>
