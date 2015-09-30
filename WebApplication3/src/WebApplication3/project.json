@@ -19,6 +19,7 @@
 
   "commands": {
     "web": "Microsoft.AspNet.Hosting --config hosting.ini",
+    "ef": "EntityFramework.Commands",
     "kestrel": "Microsoft.AspNet.Hosting --server Microsoft.AspNet.Server.Kestrel --server.urls http://localhost:5001"
   },
 
